@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development and Game development in Unreal Engine and Godot
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on making a 3d game
-- 📫 How to reach me alexgaurav@gmail.com
+- 📫 How to reach me alexgaurav29@gmail.com
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
