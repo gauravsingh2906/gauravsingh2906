@@ -28,8 +28,8 @@ Currently, I’m improving my skills by developing unique apps
 | App                                                                                | Description                                                                                                         | Tech                                                |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 🌄 [**PixelGallery**](https://github.com/gauravsingh2906/UnsplashWallpaper)                | Explore, search, and save images from Unsplash. Supports download, share & set wallpaper.                           | Jetpack Compose, Paging 3, Room, Clean Architecture |
-| 📖 [**Shree Bhagavad Gita**](https://github.com/yourusername/ShreeBhagavadGita)    | Read and listen to all 17 chapters and verses in Hindi & English with Text-to-Speech.                               | MVVM, Room, Retrofit, XML UI                        |
-| 🛒 [**NutriSports (E-Commerce App)**](https://github.com/yourusername/NutriSports) | Multi-module Kotlin Multiplatform app for Android, iOS, and Web. Handles user accounts, products, cart, and orders. | KMP, Jetpack Compose, Firebase, Clean Architecture  |
+| 📖 [**Shree Bhagavad Gita**](https://github.com/gauravsingh2906/ShreeBhagavadGita)    | Read and listen to all 17 chapters and verses in Hindi & English with Text-to-Speech.                               | MVVM, Room, Retrofit, XML UI                        |
+| 🛒 [**NutriSports (E-Commerce App)**](https://github.com/gauravsingh2906/NutritionSports) | Multi-module Kotlin Multiplatform app for Android, iOS, and Web. Handles user accounts, products, cart, and orders. | KMP, Jetpack Compose, Firebase, Clean Architecture  |
 | 🌐 **Portfolio / Web Apps**                                                        | Built using Kotlin Multiplatform to support Android, iOS, and Web platforms.                                        | KMP, Jetpack Compose, Kotlin/JS                     |
 
 
